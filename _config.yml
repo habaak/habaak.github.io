@@ -165,3 +165,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  
+  
+## => Theme
+##############################
+theme: jekyll-text-theme
