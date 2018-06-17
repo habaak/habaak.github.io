@@ -1,7 +1,7 @@
 source 'https://rubygems.org/'
 
 gemspec
-
+gem "jekyll-text-theme"
 # For dev under windows, I know that yikes....
 
 # gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
